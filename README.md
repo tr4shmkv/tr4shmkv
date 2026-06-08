@@ -6,7 +6,7 @@
 *  Currently learning **System Design, Docker, and Microservices**
 *  Looking to collaborate on **Java, Spring Boot, and Full-Stack Projects**
 *  Ask me about **Java, Spring Boot, Spring Security, React, JWT, SQL, and DSA**
-*  Reach me at **[gunisahil@example.com](mailto:gunisahil@example.com)**
+*  Reach me at **[gunisahil@gmail.com](mailto:gunisahil@gmail.com)**
 
 ---
 
