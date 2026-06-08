@@ -1,4 +1,4 @@
-<img width="1061" height="250" alt="image" src="https://github.com/user-attachments/assets/44b529f7-6f9d-455f-b6b3-fb1fc6a55c60" /># Hi, I'm Sahil 
+# Hi, I'm Sahil 
 
 ### Full-Stack Developer passionate about building scalable web applications and backend systems.
 
